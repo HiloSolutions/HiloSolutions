@@ -1,5 +1,5 @@
-### Hi there, I am Lauren Johnston
-<img src="https://media3.giphy.com/media/dZXzmKGKNiJtDxuwGg/giphy.gif" width="300px">
+### Hi there 👋, I am Lauren Johnston!
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <!--
