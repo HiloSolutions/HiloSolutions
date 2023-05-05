@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <iframe src="https://giphy.com/embed/BpGWitbFZflfSUYuZ9" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BpGWitbFZflfSUYuZ9">via GIPHY</a></p>, I am Lauren Johnston
 
 <!--
 **HiloSolutions/HiloSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software developer who is passionate about making software solutions more accessible and user-friendly, and building technology to elevate business operations. Some technologies I enjoy working with are PSQL, JavaScript and it's various libraries, Express, and Ruby on Rails. My interest in the react ecosystem has lead me to launch many projects including Nutritionship.
