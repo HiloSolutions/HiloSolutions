@@ -1,8 +1,3 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Lauren Johnston!
----
-I'm a software developer who is passionate about making software solutions more accessible and user-friendly, and building technology to elevate business operations. Some technologies I enjoy working with are PSQL, JavaScript and it's various libraries, Express, and Ruby on Rails. My interest in the react ecosystem has lead me to launch many projects including Nutritionship.
-
----
 <style>
 table {
     border-collapse: collapse;
@@ -15,6 +10,13 @@ blockquote {
     padding-left: 10px;
 }
 </style>
+
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Lauren Johnston!
+---
+I'm a software developer who is passionate about making software solutions more accessible and user-friendly, and building technology to elevate business operations. Some technologies I enjoy working with are PSQL, JavaScript and it's various libraries, Express, and Ruby on Rails. My interest in the react ecosystem has lead me to launch many projects including Nutritionship.
+
+---
+
 
 | Column One    | Column Two    |                                                                                                                                                   
 | ---           | ---           |                                                                                                                                                   
