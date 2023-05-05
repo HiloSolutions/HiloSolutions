@@ -13,5 +13,10 @@ Technology is developing exponentially and it is ESSENTIAL that we build tools t
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery Logo" width="50" height="50" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML 5 Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="Mocha Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="StoryBook Logo" width="50" height="50" />
 
+---
+#### :octocat: Latest Projects
+Coming Soon.
 
-
+---
+#### :bar_chart: Stats
+[![HiloSolution's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiloSolutions&show_icons=true&theme=tokyonight)](https://github.com/HiloSolutions/github-readme-stats)
