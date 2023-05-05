@@ -1,5 +1,6 @@
 ### Hi there, I am Lauren Johnston
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![welcome](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
 <!--
 **HiloSolutions/HiloSolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
