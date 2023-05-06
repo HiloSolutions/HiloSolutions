@@ -5,7 +5,7 @@ I'm a software developer specializing in JavaScript technologies and CRM develop
 
 In addition to software development, I have worked in a agile development settings as both a researcher and project manager. I am passionate about developing technologies which facilitate better cross-departmental comunication and user-experience. 
 
-Technology is developing exponentially and it is ESSENTIAL that we build tools to help veryone - not just developers.
+Technology is developing exponentially and it is ESSENTIAL that we build tools to help everyone - not just developers.
 
 ---
 #### 🧰 Toolbox
