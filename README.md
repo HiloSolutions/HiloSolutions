@@ -15,7 +15,7 @@ Technology is developing exponentially and it is ESSENTIAL that we build tools t
 
 ---
 #### :octocat: Latest Projects
-Coming Soon.
+[Portfolio Website](https://github.com/HiloSolutions/saved-portfolio-site)
 
 ---
 #### :bar_chart: Stats
