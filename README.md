@@ -17,6 +17,3 @@ Technology is developing exponentially and it is ESSENTIAL that we build tools t
 #### :octocat: Latest Projects
 [Portfolio Website](https://github.com/HiloSolutions/saved-portfolio-site)
 
----
-#### :bar_chart: Stats
-[![HiloSolution's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiloSolutions&show_icons=true&theme=tokyonight)](https://github.com/HiloSolutions/github-readme-stats)
